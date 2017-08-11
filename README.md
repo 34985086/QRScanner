@@ -2,7 +2,12 @@
 
 QRScanner demo application on QT + QZXing
 
+
+
+
 QRScanner QT demo running on i.MX6UL
+
+https://community.nxp.com/docs/DOC-333910
 
 由 Eric Chen 员工 于 2017-2-23 创建的文档版本 1喜欢 • 显示 1 喜欢1 评论 • 4
 以全屏模式查看
